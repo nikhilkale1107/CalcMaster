@@ -1,2 +1,2 @@
 # CalcMaster
-CalcMaster is a versatile calculator repository capable of performing basic mathematical operations, as well as serving as an EMI and FD Calculator.
+CalcMaster is a multi-functional calculator built with HTML, CSS, and JavaScript. It performs basic arithmetic operations and includes features to calculate EMI and FD.
